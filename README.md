@@ -2,12 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/Akbar-Lab-droid/awesome-ai-indonesia?style=social)](https://github.com/Akbar-Lab-droid/awesome-ai-indonesia)
 
 Daftar kurasi ekosistem kecerdasan buatan (AI) Indonesia: model bahasa, dataset, komunitas, kursus, tools, perusahaan, dan riset. Disusun manual, bukan hasil salin-tempel mentah — setiap tautan dicek dan berfungsi per **20 November 2026**.
-
-> Kalau kamu menemukan tautan mati atau punya tambahan yang layak masuk daftar, kirim pull request. Baca dulu [panduan kontribusi](CONTRIBUTING.md).
 
 ## Daftar Isi
 
@@ -19,7 +16,6 @@ Daftar kurasi ekosistem kecerdasan buatan (AI) Indonesia: model bahasa, dataset,
 - [Perusahaan & Startup AI Indonesia](#perusahaan--startup-ai-indonesia)
 - [Media & Berita](#media--berita)
 - [Riset & Paper](#riset--paper)
-- [Berkontribusi](#berkontribusi)
 
 ## Model Bahasa Indonesia
 
@@ -91,16 +87,6 @@ Paper kunci tentang AI berbahasa Indonesia. Kalau mau riset serius, mulai dari s
 - [NusaCrowd: Open Source Initiative for Indonesian NLP Resources (ACL 2023)](https://aclanthology.org/2023.findings-acl.868/) — 137 dataset, fondasi ekosistem NLP Indonesia modern.
 - [Komodo: A Linguistic Expedition into Indonesia's Regional Languages](https://arxiv.org/abs/2403.09362) — Komodo-7B, LLM pertama untuk bahasa daerah Indonesia.
 - [Cendol: Open Instruction-tuned Generative LLMs for Indonesian Languages (ACL 2024)](https://arxiv.org/abs/2404.06138) — Koleksi LLM instruction-tuned Bahasa Indonesia 300M–13B.
-
-## Berkontribusi
-
-Daftar ini hidup dari kontribusi komunitas. Caranya:
-
-1. Fork repo ini, tambahkan entri di bagian yang sesuai (format: `- [Nama](tautan) — deskripsi satu baris`).
-2. Pastikan tautan berfungsi dan entri benar-benar relevan dengan AI di Indonesia.
-3. Kirim pull request dengan penjelasan singkat kenapa entri itu layak masuk.
-
-Detail lengkapnya ada di [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
