@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/Akbar-Lab-droid/awesome-ai-indonesia?style=social)](https://github.com/Akbar-Lab-droid/awesome-ai-indonesia/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Akbar-Lab-droid/awesome-ai-indonesia?style=social)](https://github.com/Akbar-Lab-droid/awesome-ai-indonesia)
 
 Daftar kurasi ekosistem kecerdasan buatan (AI) Indonesia: model bahasa, dataset, komunitas, kursus, tools, perusahaan, dan riset. Disusun manual, bukan hasil salin-tempel mentah — setiap tautan dicek dan berfungsi per **20 November 2026**.
 
