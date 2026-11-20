@@ -37,6 +37,7 @@ Model yang dilatih khusus untuk Bahasa Indonesia dan bahasa daerah — bukan sek
 
 ## Komunitas & Event
 
+- [AIPROXCROP](https://github.com/AIPROXCROP) — Komunitas belajar AI berbahasa Indonesia — seri video edukasi "Ayo Belajar Bersama AIPROXCROP", 90 detik per episode.
 - [Google Developer Groups (GDG) Indonesia](https://developers.google.com/community/gdg) — Chapter GDG di berbagai kota Indonesia; banyak meetup dan codelab seputar ML/AI.
 - [PyCon Indonesia](https://pycon.id) — Konferensi Python tahunan Indonesia; selalu ada trek data dan machine learning.
 - [Kaggle](https://www.kaggle.com/competitions) — Kompetisi data science dan ML. Banyak kompetisi dan dataset Indonesia di sini; tempat terbaik untuk latihan dengan data nyata.
