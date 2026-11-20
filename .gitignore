@@ -1,0 +1,8 @@
+# Ignore macOS and editor leftovers
+.DS_Store
+*.swp
+*~
+
+# Python caches (for scripts/)
+__pycache__/
+*.pyc
